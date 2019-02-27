@@ -7,7 +7,7 @@ We were offered a list of datasets to choose from as well as the option to use o
 The dataset was too large to use for Tableau Public (the free version of Tableau). So I subsetted it using python so that I would have a smaller dataset containing only flights starting or ending in the NYC area airports.
 
 ## Contents
-- 2008_subset.csv - the subsetted dataset
+- 2008_subset.csv - the subsetted dataset (unable to upload as it's too large); created using flights_subset.ipynb
 - airports.csv - names of airports (original data only had airport codes); supplied by stat-computing.org
 - carriers.csv - names of carriers (original only had tail code abbreviations); supplied by stat-computing.org
 - flights_subset.html - HTML-knit of flights_subset.ipynb
